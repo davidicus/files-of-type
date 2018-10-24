@@ -1,5 +1,3 @@
-# Node Module Boilerplate
+# File-of-type
 
----
-
-The basic structure and files for creating node modules. To be used with [kick-init](https://www.npmjs.com/package/kick-init)
+A small utility that grabs and stores in an array all the files of a specific type
