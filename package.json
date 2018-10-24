@@ -1,7 +1,7 @@
 {
   "name": "files-of-type",
   "version": "0.0.1",
-  "description": "A small utility that grabs and stores in an array all the files of a specific type",
+  "description": "A small utility that grabs and returns an array of all the file names of a specific type located in specified directory.",
   "license": "MIT",
   "repository": "davidicus/files-of-type.git",
   "keywords": [
