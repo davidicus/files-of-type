@@ -1,16 +1,16 @@
 {
-  "name": "<%= moduleName %>",
+  "name": "files-of-type",
   "version": "0.0.1",
-  "description": "",
+  "description": "A small utility that grabs and stores in an array all the files of a specific type",
   "license": "MIT",
-  "repository": "davidicus/<%= moduleName %>",
+  "repository": "davidicus/files-of-type.git",
   "keywords": [
     "files"
   ],
   "bugs": {
-    "url": "https://github.com/davidicus/<%= moduleName %>/issues"
+    "url": "https://github.com/davidicus/files-of-type/issues"
   },
-  "homepage": "https://github.com/davidicus/<%= moduleName %>#readme",
+  "homepage": "https://github.com/davidicus/files-of-type#readme",
   "author": "David Conner <david@david-conner.com> (http://david-conner.com)",
   "engines": {
     "node": ">=8.9.6"
