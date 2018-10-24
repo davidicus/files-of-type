@@ -13,14 +13,14 @@
   "homepage": "https://github.com/davidicus/files-of-type#readme",
   "author": "David Conner <david@david-conner.com> (http://david-conner.com)",
   "engines": {
-    "node": ">=8.9.6"
+    "node": ">=8.9.4"
   },
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "jest"
   },
   "dependencies": {},
   "devDependencies": {
-    "ava": "^0.25.0"
+    "jest": "^23.6.0"
   }
 }
