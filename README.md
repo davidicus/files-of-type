@@ -13,3 +13,14 @@ or
 ```
 yarn install files-of-type
 ```
+
+## Use
+
+```
+const filesOfType = require('file-of-type');
+
+filesOfType('.js').
+  then(files => {
+    files.map(file => console.log(file));
+  });
+```
