@@ -4,14 +4,13 @@ node_js:
   - "9"
   - "8"
 
-  cache: yarn
+cache: yarn
 
-  install: yarn
-  script:
-    - yarn test
+install: yarn
+script:
+  - yarn test
 
-
-  jobs:
+jobs:
   include:
     - stage: npm release
       if: tag IS present
