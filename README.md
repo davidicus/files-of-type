@@ -11,7 +11,7 @@ npm i files-of-type
 or
 
 ```
-yarn i files-of-type
+yarn add files-of-type
 ```
 
 ## Use
